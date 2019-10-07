@@ -31,9 +31,9 @@ h1, h2, h3, h4, h5, h6{text-align: center; margin: 30px; text-shadow: 5px 3px 2p
     background-color: grey;
     transform: translateY(4px);
     box-shadow: 2px 1px 1px rgb(119, 119, 119);
+}
 
 /*script for second button*/
-}
 .button2{
     background-color: rgb(187, 187, 187);
     -webkit-transition-duration: 0.2s;
