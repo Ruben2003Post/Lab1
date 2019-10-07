@@ -7,7 +7,7 @@
   <body>
     <h1>Lab1</h1>
     <?php
-      
+       
      ?>
   </body>
 </html>
